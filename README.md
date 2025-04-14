@@ -8,7 +8,7 @@
 
 `gamemode.give` - Permission to enable/disable creative mode for a specific player.
 
-
+⠀
 
 
 **Version: 1.0**
