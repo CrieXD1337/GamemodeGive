@@ -1,12 +1,13 @@
 name: GamemodeGive
 main: ru.rexlite.Loader
-version: "1.0.0"
+version: "1.0"
 api: ["1.1.0", "1.0.9"]
 author: "Criex"
 commands:
-  gamemodegive:
+  gamemodesgive:
     description: "Turn on/turn off creative game mode to others players"
     permission: "gamemode.give"
+    aliases: ["gmgive"]
 permissions:
   gamemode.give:
     default: op
