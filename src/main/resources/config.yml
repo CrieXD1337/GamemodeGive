@@ -1,0 +1,10 @@
+use: "&7 &cUsage: &e/gamemodegive <name> [true/false]"
+no-found: "&7> &cPlayer &e{player} &cnot found!"
+true-gamemode: "&7> &fYou have &aenabled &fcreative mode for the player &e{player}"
+false-gamemode: "&7> &fYou have &cdisabled &fcreative mode for player &e{player}"
+
+# Whether to send players notifications that their creativity has been turned on or off.
+is-use-messages-for-players: true
+
+message-true: "&7> &fYou have been switched to &bcreative&f mode."
+message-false: "&7> &fYour &bcreative &fmode has been turned off."
