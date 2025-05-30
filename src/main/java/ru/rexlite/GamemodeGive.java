@@ -8,8 +8,8 @@ import cn.nukkit.utils.Config;
 import cn.nukkit.utils.TextFormat;
 import java.io.File;
 
-public class Loader extends PluginBase implements Listener {
-    public Loader() {
+public class GamemodeGive extends PluginBase implements Listener {
+    public GamemodeGive() {
     }
 
     public void onEnable() {
