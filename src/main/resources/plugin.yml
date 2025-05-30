@@ -1,7 +1,7 @@
 name: GamemodeGive
-main: ru.rexlite.Loader
+main: ru.rexlite.GamemodeGive
 version: "1.0"
-api: ["1.1.0", "1.0.9"]
+api: ["1.1.0", "1.0.13"]
 author: "Criex"
 commands:
   gamemodesgive:
